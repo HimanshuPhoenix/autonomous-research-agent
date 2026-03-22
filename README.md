@@ -27,7 +27,7 @@ This project is divided into two phases to align with the program's track submis
 5.  **Output Generation:** The agent returns a structured literature review, key methods, and experiment ideas to the user.
 
 ## 🛠️ Project Structure
-\`\`\`text
+```text
 autonomous-research-agent/
 ├── .env                 # Environment variables (Project ID, API keys)
 ├── requirements.txt     # Project dependencies
@@ -38,7 +38,7 @@ autonomous-research-agent/
 ├── mcp_server/          # (Phase 2) Configuration for MCP Toolbox / SQLite
 │   └── tools.yaml       # Database and query configurations
 └── README.md
-\`\`\`
+```
 
 ## 💻 Local Setup & Testing
 * Instructions will be added as we buid
