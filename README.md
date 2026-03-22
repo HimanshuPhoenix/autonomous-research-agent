@@ -42,3 +42,18 @@ autonomous-research-agent/
 
 ## 💻 Local Setup & Testing
 * Instructions will be added as we buid
+
+---
+
+## Author
+  Himanshu Saxena
+  
+  MSc Artificial Intelligence
+  [IUBH, Germany](https://iu.org)
+  
+  GitHub: https://github.com/HimanshuPhoenix
+
+---
+
+## License
+This project is for educational and research purposes.
