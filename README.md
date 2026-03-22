@@ -31,12 +31,10 @@ This project is divided into two phases to align with the program's track submis
 autonomous-research-agent/
 ├── .env                 # Environment variables (Project ID, API keys)
 ├── requirements.txt     # Project dependencies
-├── adk_agent/           # Core ADK application folder
-│   ├── __init__.py      
-│   ├── agent.py         # Main agent definition and instructions
-│   └── tools.py         # Wikipedia Langchain tools and MCP toolsets
-├── mcp_server/          # (Phase 2) Configuration for MCP Toolbox / SQLite
-│   └── tools.yaml       # Database and query configurations
+├── __init__.py      
+├── agent.py         # Main agent definition and instructions
+└── tools.py         # Wikipedia Langchain tools and MCP toolsets
+└── tools.yaml       # Database and query configurations (Only Wikipedia for Track1)
 └── README.md
 ```
 
