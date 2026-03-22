@@ -39,7 +39,13 @@ autonomous-research-agent/
 ```
 
 ## 💻 Local Setup & Testing
-* Instructions will be added as we buid
+* [Instructions for Track 1](https://github.com/HimanshuPhoenix/autonomous-research-agent/blob/main/track1_run_on_gcloud.md)
+
+![Track 1](Track1_flow.png)
+
+![Track 1 Prompt](Track1_prompt.png)
+
+![Track 1 Response](Track1_response.png)
 
 ---
 
