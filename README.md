@@ -2,18 +2,18 @@
 
 An autonomous AI research assistant built with Google's Agent Development Kit (ADK) and Gemini. This agent helps users find, read, extract, and store academic insights from sources like arXiv, Semantic Scholar, and Wikipedia. 
 
-This project was built for the **[Google Cloud Gen AI Academy APAC 2026](https://vision.hack2skill.com/event/apac-genaiacademy/)** and is designed to fulfill the requirements for Track 1 and [Track 2](https://github.com/HimanshuPhoenix/autonomous-research-agent/tree/track-2-mcp).
+This project was built for the **[Google Cloud Gen AI Academy APAC 2026](https://vision.hack2skill.com/event/apac-genaiacademy/)** and is designed to fulfill the requirements for [Track 1]](https://github.com/HimanshuPhoenix/autonomous-research-agent/) and Track 2.
 
 ## Architecture & Track Submissions
 
 This project is divided into two phases to align with the program's track submissions:
 
-### Phase 1: Core Agent & Deployment (Track 1)
+### Phase 1: Core Agent & Deployment [(Track 1)](https://github.com/HimanshuPhoenix/autonomous-research-agent/)
 *   **Goal:** Build and deploy a single AI agent using ADK and Gemini on Cloud Run.
 *   **Implementation:** A conversational research agent built using `google-adk`. For this phase, the agent uses the `langchain-community` Wikipedia tool as a fallback to search for academic topics and summarize findings.
 *   **Deployment:** Deployed as a serverless container to Google Cloud Run via the `adk deploy cloud_run` command.
 
-### Phase 2: Tool & Data Integration via MCP [(Track 2)](https://github.com/HimanshuPhoenix/autonomous-research-agent/tree/track-2-mcp)
+### Phase 2: Tool & Data Integration via MCP (Track 2)
 *   **Goal:** Connect the AI agent to external tools and real-world data using the Model Context Protocol (MCP).
 *   **Implementation:** 
     *   **Data Storage:** Integrates a local **SQLite** database to persistently store research summaries, insights, and citations. The database is connected to the agent using the **MCP Toolbox for Databases**.
