@@ -2,7 +2,7 @@
 
 An autonomous AI research assistant built with Google's Agent Development Kit (ADK) and Gemini. This agent helps users find, read, extract, and store academic insights from sources like arXiv, Semantic Scholar, and Wikipedia. 
 
-This project was built for the **[Google Cloud Gen AI Academy APAC 2026](https://vision.hack2skill.com/event/apac-genaiacademy/)** and is designed to fulfill the requirements for [Track 1]](https://github.com/HimanshuPhoenix/autonomous-research-agent/) and Track 2.
+This project was built for the **[Google Cloud Gen AI Academy APAC 2026](https://vision.hack2skill.com/event/apac-genaiacademy/)** and is designed to fulfill the requirements for [Track 1](https://github.com/HimanshuPhoenix/autonomous-research-agent/) and Track 2.
 
 ## Architecture & Track Submissions
 
