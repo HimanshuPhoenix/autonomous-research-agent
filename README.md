@@ -57,6 +57,8 @@ autonomous-research-agent/
   
   GitHub: https://github.com/HimanshuPhoenix
 
+  Linkedin: https://www.linkedin.com/in/phoenix-himanshu/
+
 ---
 
 ## License
